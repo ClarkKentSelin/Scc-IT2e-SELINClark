@@ -1,6 +1,8 @@
 
 package selin2eit;
 
+import java.util.Scanner;
+
 public class SalesSelin2E {
     
     public void getSales(){
